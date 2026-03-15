@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Alessandro Adrian Ruiz Nina
 
-<!--
-**alessandro-ruiz/alessandro-ruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer | Full-Stack Developer
 
-Here are some ideas to get you started:
+I build backend services, full-stack applications, REST APIs, SQL-driven systems, and AI-assisted automation workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- **Languages:** C#, Java, JavaScript, TypeScript, SQL, Python
+- **Backend:** .NET, ASP.NET Core, REST APIs, Microservices
+- **Frontend:** Angular, React, HTML, CSS
+- **Databases:** SQL Server, Azure Cosmos DB, Redis
+- **Tools:** Docker, Docker Compose, Linux, Git, GitHub
+- **Cloud:** Azure, AWS
+- **AI & Automation:** OpenAI, n8n, GitHub Copilot, Cursor
+
+### Areas of Interest
+- Backend Engineering
+- Full-Stack Development
+- Software Architecture
+- SQL and Database Design
+- AI-Powered Automation
+
+### Contact
+- LinkedIn: https://www.linkedin.com/in/alessandro-ruiz-nina/
+- Email: a.adrianruiznina@gmail.com
+- Phone: +59160547731
