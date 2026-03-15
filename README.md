@@ -23,4 +23,3 @@ I build backend services, full-stack applications, REST APIs, SQL-driven systems
 ### Contact
 - LinkedIn: https://www.linkedin.com/in/alessandro-ruiz-nina/
 - Email: a.adrianruiznina@gmail.com
-- Phone: +59160547731
